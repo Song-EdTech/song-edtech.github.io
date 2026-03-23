@@ -43,6 +43,14 @@ title = 'Yukyeong Song'
     url = "#awards"
     weight = 50
   [[menu.main]]
+    name = "Tech Projects"
+    url = "/tech-projects/"
+    weight = 55
+  [[menu.main]]
     name = "CV"
     url = "uploads/cv.pdf"
     weight = 60
+  [[menu.main]]
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?hl=en&user=pHCfFnQAAAAJ"
+    weight = 70
